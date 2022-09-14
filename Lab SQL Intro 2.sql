@@ -1,1 +1,0 @@
-SELECT DISTINCT title AS unique_films FROM film;
