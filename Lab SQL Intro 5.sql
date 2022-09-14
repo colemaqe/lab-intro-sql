@@ -1,0 +1,1 @@
+SELECT DISTINCT first_name AS employee_names FROM staff;
